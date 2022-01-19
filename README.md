@@ -1,5 +1,5 @@
 # PokeDoor Decorations
-###Create up to 649 Pokemon ID Cards or Door Decorations from a CSV File
+### Create up to 649 Pokemon ID Cards or Door Decorations from a CSV File
 
 ## 2 Steps
 ### 1. Edit the CSV File with First and Last Names
